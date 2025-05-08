@@ -20,13 +20,16 @@ bash
 نسخ
 تحرير
 python3 --version
-إنشاء بيئة افتراضية (اختياري لكن يُفضل):
+إنشاء بيئة افتراضية
+
 
 bash
 نسخ
 تحرير
 python3 -m venv venv
+
 source venv/bin/activate      # لينكس / ماك
+
 .\\venv\\Scripts\\activate    # ويندوز
 تثبيت Flask:
 
